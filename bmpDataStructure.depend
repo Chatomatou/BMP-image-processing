@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1537784229 source:c:\users\s.biczo\desktop\bmpdatastructure\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1537828897 source:c:\users\guerr\desktop\bmpdatastructure\main.c
+	"bmp.h"
+
+1537829256 source:c:\users\guerr\desktop\bmpdatastructure\bmp.c
+	"bmp.h"
+
+1537828764 c:\users\guerr\desktop\bmpdatastructure\bmp.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1537864530 source:c:\users\s.biczo\desktop\traitementimagebmp\bmp.c
+	"bmp.h"
+
+1537859719 c:\users\s.biczo\desktop\traitementimagebmp\bmp.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1537864486 source:c:\users\s.biczo\desktop\traitementimagebmp\main.c
+	"bmp.h"
+
+1537994617 source:c:\users\guerr\desktop\traitementimagebmp33\bmp.c
+	"bmp.h"
+
+1537994522 c:\users\guerr\desktop\traitementimagebmp33\bmp.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1537992955 source:c:\users\guerr\desktop\traitementimagebmp33\main.c
+	"bmp.h"
+
+1537994617 source:c:\users\guerr\documents\développement informatique conception logiciel\programmation en langage c\console application\traitement d'image bmp\bmp.c
+	"bmp.h"
+
+1537994522 c:\users\guerr\documents\développement informatique conception logiciel\programmation en langage c\console application\traitement d'image bmp\bmp.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1538048351 source:c:\users\guerr\documents\développement informatique conception logiciel\programmation en langage c\console application\traitement d'image bmp\main.c
+	"bmp.h"
+
